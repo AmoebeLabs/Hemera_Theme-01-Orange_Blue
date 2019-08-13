@@ -11,6 +11,7 @@ It has built-in support for the following custom components:
 - The [custom thermostat card](https://github.com/ciotlosm/custom-lovelace/tree/master/thermostat-card)
 - The [custom simple weather card](https://github.com/kalkih/simple-weather-card)
 - The awesome [custom button card](https://github.com/custom-cards/button-card)
+- The [custom air visual card](https://github.com/dnguyen800/air-visual-card)
 
 ## Design:
 The main colors, based on the [Material Design Color Palettes](https://github.com/AmoebeLabs/Material-Design-Theme-Colors) are:
