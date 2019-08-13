@@ -3,7 +3,7 @@ Hemera Day Theme for Home Assistant in Orange/Blue variant
 
 ## What is it
 Hemera is an extended day theme, supporting several custom components.
-As a day theme, Hemera has a corresponding night theme named Nyx.
+Hemera, the goddess of the day, has a counterpart named Nyx, the goddess of the night.
 
 ## Supported Home Assistant and Lovelace components
 This theme is build on Home Assistant 0.96.5
