@@ -21,7 +21,6 @@ It has built-in support for the following custom components:
 
 ![2](https://github.com/AmoebeLabs/Hemera_Theme-Orange_Blue/blob/master/screenshots/hemera-01-examples02.png)
 
-
 ## Design:
 The main colors, based on the [Material Design Color Palettes](https://github.com/AmoebeLabs/Material-Design-Theme-Colors) are:
 - Light Grey for backgrounds
