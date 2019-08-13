@@ -1,4 +1,4 @@
-# Hemera Theme Orange/Blue
+# Hemera Theme Variant #01, Light Grey/Orange/Blue
 Hemera Day Theme for Home Assistant in Orange/Blue variant
 
 ## What is it
