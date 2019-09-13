@@ -1,3 +1,5 @@
+[![hacs_badge](https://img.shields.io/badge/HACS-Custom-orange.svg?style=for-the-badge)](https://github.com/custom-components/hacs)
+
 # Hemera Theme Variant #01, Light Grey/Orange/Blue
 Hemera Day Theme for Home Assistant in Orange/Blue variant
 
@@ -13,6 +15,9 @@ It has built-in support for the following custom components:
 - The awesome [custom button card](https://github.com/custom-cards/button-card)
 - The great [custom mini graph card](https://github.com/kalkih/mini-graph-card)
 - The [custom air visual card](https://github.com/dnguyen800/air-visual-card)
+
+## Installation via HACS
+Add a custom repository to HACS, pointing to this repository, `https://github.com/AmoebeLabs/Hemera_Theme-01-Orange_Blue`
 
 ## Simple Preview:
 ![Hemera 01 Profile](https://github.com/AmoebeLabs/Hemera_Theme-Orange_Blue/blob/master/screenshots/hemera-01-profile.png)
